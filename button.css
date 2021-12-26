@@ -1,0 +1,75 @@
+
+p {
+    color: rgb(255, 255, 255);
+    font-size: x-large;
+    margin: 10px 0px -20px 0px;
+}
+h1 {
+    color: rgb(255, 255, 255);
+    margin: 25px 25px 25px 25px;
+}
+
+header {
+    color: rgb(255, 255, 255);
+    text-align: right;
+    font-size: xx-large;
+    margin: 0px 50px 0px 0px;
+}
+
+body {
+    background-color: rgb(94, 94, 94);
+}
+
+button { 
+    border: none;
+    color: rgb(255, 255, 255);
+    padding: 16px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: -8px 5px 9px -8px;
+    transition-duration: 0.4s;
+    cursor: pointer;
+}
+.button1 {
+    background-color: rgb(172, 172, 172); 
+    color: rgb(255, 255, 255); 
+  }
+  
+  .button1:hover {
+    background-color: #505050;
+    color: white;
+  }
+  .button2 {
+    background-color: rgb(172, 172, 172); 
+    color: rgb(255, 255, 255); 
+  }
+  
+  .button2:hover {
+    background-color: #505050;
+    color: white;
+  }
+  .button3 {
+    background-color: rgb(172, 172, 172); 
+    color: rgb(255, 255, 255); 
+  }
+  
+  .button3:hover {
+    background-color: #505050;
+    color: white;
+  }
+  .button4 {
+    background-color: rgb(172, 172, 172); 
+    color: rgb(255, 255, 255); 
+  }
+  
+  .button4:hover {
+    background-color: #505050;
+    color: white;
+  }
+
+  footer {
+    color: white;
+    margin: 0px 0px 0px 25px;
+  }
